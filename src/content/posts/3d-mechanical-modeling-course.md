@@ -4,6 +4,7 @@ pubDate: 2026-04-09
 description: 使用AutoCAD进行三维机械建模，机械爪经典机械结构全流程案例视频教程，帮助学习AutoCAD机械设计和三维精确机械建模的朋友。
 tags: [AutoCAD教程, 三维建模]
 category: AutoCAD课程
+recommend: true
 draft: false
 cover: https://cdn.jimuhaoke.com/2025/%E6%9C%BA%E6%A2%B0%E7%88%AA%E5%BB%BA%E6%A8%A1.webp
 ---
