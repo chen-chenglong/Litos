@@ -6,7 +6,7 @@ tags: [AutoCAD教程, CAD二维]
 category: AutoCAD课程
 pinned: true
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/CAD%E4%BA%8C%E7%BB%B4%E8%AF%BE%E7%A8%8B.webp"
+cover: https://cdn.jimuhaoke.com/2025/CAD%E4%BA%8C%E7%BB%B4%E8%AF%BE%E7%A8%8B.webp
 ---
 ## 积木好课AutoCAD零基础二维制图全套系统课
 

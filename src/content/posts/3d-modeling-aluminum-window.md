@@ -5,7 +5,7 @@ description: 隔热铝合金窗要实现精确的三维建模，本案例使用A
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E5%BB%BA%E6%A8%A1.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E5%BB%BA%E6%A8%A1.webp
 ---
 本案例为AutoCAD定制课程学员李燕提供技术文档，在此特别感谢。使用场景就是产品的电商宣传图，用于电商平台的主图和详情页宣传，因此各类产品均需要建模和渲染，在直播课全程操作流程如下。
 

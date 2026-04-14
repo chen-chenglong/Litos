@@ -5,7 +5,7 @@ description: 以黑胡桃茶几为案例，使用AutoCAD进行家具三维建模
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E5%92%8C%E6%B8%B2%E6%9F%93.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E5%92%8C%E6%B8%B2%E6%9F%93.webp
 ---
 本一对一教学是为了一个做家具建模的学员定制，以黑胡桃茶几为案例，使用AutoCAD进行家具三维建模和渲染全流程的案例演示，打通CAD精确家具建模和生产全流程技术。
 
