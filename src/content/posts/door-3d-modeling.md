@@ -5,7 +5,7 @@ description: 铁艺、铝艺大门的加工订制，使用AutoCAD进行设计，
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E9%93%81%E8%89%BA%E5%A4%A7%E9%97%A8%E5%BB%BA%E6%A8%A1.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E9%93%81%E8%89%BA%E5%A4%A7%E9%97%A8%E5%BB%BA%E6%A8%A1.webp
 ---
 本案例通过综合运用软件全流程技术，完成铁艺铝艺大门订制平面图和三维建模与渲染的整个产业全流程，帮助此类专业技术人员和生产人员满足从设计、下单、制作加工、市场营销产品效果图全链条技术需求，提供了一套完善的技术解决方案，可以提高市场运作效率，提供经济效益。
 

@@ -5,7 +5,7 @@ description: 本案例是使用AutoCAD进行产品建模和渲染的全流程技
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E6%B3%A1%E6%B3%A1%E6%9C%BA%E5%BB%BA%E6%A8%A1.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E6%B3%A1%E6%B3%A1%E6%9C%BA%E5%BB%BA%E6%A8%A1.webp
 ---
 ![AutoCAD产品渲染](https://cdn.jimuhaoke.com/2025/AutoCAD%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93%20(1).webp)
 

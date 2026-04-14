@@ -5,7 +5,7 @@ description: 使用AutoCAD进行建筑室内装修效果图的楼梯建模和渲
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E5%AE%A4%E5%86%85%E8%A3%85%E4%BF%AE%E6%A5%BC%E6%A2%AF%E5%BB%BA%E6%A8%A1.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E5%AE%A4%E5%86%85%E8%A3%85%E4%BF%AE%E6%A5%BC%E6%A2%AF%E5%BB%BA%E6%A8%A1.webp
 ---
 本案例是针对学员室内装修楼梯的设计和施工进行的一个案例，Ins风格我自己也很喜欢，下图是从零开始是建模-渲染-后期的全流程后的渲染图，效果非常不错，因此把这个案例作为保留。
 

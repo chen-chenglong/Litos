@@ -5,7 +5,7 @@ description: 中科院烟草所的科研配图工作：绘制biochar常用的土
 tags: [科研绘图, 中科院]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E7%A7%91%E7%A0%94%E7%BB%98%E5%9B%BE.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E7%A7%91%E7%A0%94%E7%BB%98%E5%9B%BE.webp
 ---
 感谢中国科学院烟草研究所的老师支持，本次的科研配图圆满完成，两次配图分别见刊于：
 

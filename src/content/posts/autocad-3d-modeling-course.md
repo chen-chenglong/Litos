@@ -6,7 +6,7 @@ tags: [AutoCAD教程, CAD三维]
 category: AutoCAD课程
 pinned: true
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/CAD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%E8%AF%BE%E7%A8%8B.webp"
+cover: https://cdn.jimuhaoke.com/2025/CAD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%E8%AF%BE%E7%A8%8B.webp
 ---
 ## 积木好课AutoCAD三维建模全套系统课
 

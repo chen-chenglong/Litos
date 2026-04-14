@@ -5,7 +5,7 @@ description: 使用AutoCAD对金属不锈钢托盘三维建模和渲染，以及
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E9%87%91%E5%B1%9E%E6%89%98%E7%9B%98%E5%BB%BA%E6%A8%A1.webp?t=26038a76-1258-80da-8b80-f438ca40ea37"
+cover: https://cdn.jimuhaoke.com/2025/%E9%87%91%E5%B1%9E%E6%89%98%E7%9B%98%E5%BB%BA%E6%A8%A1.webp?t=26038a76-1258-80da-8b80-f438ca40ea37
 ---
 本案例是使用AutoCAD对金属不锈钢托盘三维建模和渲染，以及对产品施工图绘制三视图、剖面图等供加工使用。这是在第29期AutoCAD直播中详解的一个案例。
 

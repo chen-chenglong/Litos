@@ -5,7 +5,7 @@ description: 使用AutoCAD对家具设计中家具的结构进行三维建模，
 tags: [AutoCAD课程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/CAD%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E6%A4%85%E5%AD%90.webp"
+cover: https://cdn.jimuhaoke.com/2025/CAD%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E6%A4%85%E5%AD%90.webp
 ---
 本案例提供了一套完整的技术解决方案：AutoCAD家具从二维尺寸图到三维建模再到渲染整个技术流程。针对使用AutoCAD对家具设计中家具的结构进行三维建模，并且将建模进行最终渲染的全流程技术案例，用于家具建模的精确参考。
 

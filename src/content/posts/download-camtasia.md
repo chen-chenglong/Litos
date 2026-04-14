@@ -5,7 +5,7 @@ description: 自用的techsmith camtasia2025下载和安装教程。
 tags: [camtasia, 视频剪辑]
 category: 软件安装
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/camtasia%E4%B8%8B%E8%BD%BD.webp"
+cover: https://cdn.jimuhaoke.com/2025/camtasia%E4%B8%8B%E8%BD%BD.webp
 ---
 自用的techsmith camtasia2025下载和安装教程，做个备份。
 

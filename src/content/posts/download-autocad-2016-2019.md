@@ -5,7 +5,7 @@ description: AutoCAD2016~2019简体中文版下载。
 tags: [CAD软件, CAD下载]
 category: 软件安装
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/CAD%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.webp"
+cover: https://cdn.jimuhaoke.com/2025/CAD%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.webp
 ---
 以下软件安装包里面包含AutoCAD2016~2019简体中文版全部安装包的下载，所有资源均来源于网络，安装包内可能有第三方网页链接，请不要点击！一般都是宣传广告或者携带病毒，请按照视频教程步骤进行安装，确保电脑系统安全，如果发现链接或资源失效，可以在评论区留言给我，我会及时更新。  
 

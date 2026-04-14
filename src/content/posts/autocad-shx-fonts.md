@@ -5,7 +5,7 @@ description: 纯手工整理超2000多个shx字体，删除错误和无法使用
 tags: [CAD字体, shx字体]
 category: 技术文档
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/CAD%E5%AD%97%E4%BD%93%E4%B8%8B%E8%BD%BD.webp"
+cover: https://cdn.jimuhaoke.com/2025/CAD%E5%AD%97%E4%BD%93%E4%B8%8B%E8%BD%BD.webp
 ---
 本文介绍AutoCAD字体大全，解决shx字体缺失的各类问题，请收藏以备不时之需随时下载使用。一共收录2195个shx字体，已经剔除了一些乱七八糟格式的、ttf格式的非CAD独有的字体，那样的字体不能直接放置到CAD安装目录的Fonts字体文件夹中，剩下的都是shx字体，一次下载终身使用，也可以收藏本网页，用到的时候在下载。
 

@@ -5,7 +5,7 @@ description: 本案例使用AutoCAD对机械零件三维建模及渲染和尺寸
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6%E5%BB%BA%E6%A8%A1.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6%E5%BB%BA%E6%A8%A1.webp
 ---
 这个案例是AutoCAD第29期直播课一名澳大利亚的学员找到的一个网络案例，原站点需要科学上网，我就下载原图在国内演示了一下，整体难度不大就是细节满满，对初学者到中级进阶的很有帮助。
 

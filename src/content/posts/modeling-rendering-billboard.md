@@ -5,7 +5,7 @@ description: 一个技术全流程的真实项目案例分享，AutoCAD建模和
 tags: [CAD项目, 建模渲染]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93.webp
 ---
 本案例为AutoCAD在店招牌、公交站广告牌的建模和渲染全流程技术项目，本项目为学员自有项目，版权归学员所有。
 

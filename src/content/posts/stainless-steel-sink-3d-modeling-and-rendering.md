@@ -5,7 +5,7 @@ description: 本案例为使用AutoCAD进行水槽的产品设计，三维建模
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E6%B0%B4%E6%A7%BD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E6%B0%B4%E6%A7%BD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1.webp
 ---
 使用AutoCAD建模三维不锈钢水槽并且渲染出产品图，分为三个部分：根据二维尺寸建模三维结构、装配三维各个结构以及渲染产品图。
 

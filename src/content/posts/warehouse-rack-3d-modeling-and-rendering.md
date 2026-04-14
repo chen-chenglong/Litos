@@ -5,7 +5,7 @@ description: 使用AutoCAD依据二维精确的尺寸设计进行三维仓库货
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/%E4%BB%93%E5%BA%93%E8%B4%A7%E6%9E%B6%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93.webp"
+cover: https://cdn.jimuhaoke.com/2025/%E4%BB%93%E5%BA%93%E8%B4%A7%E6%9E%B6%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93.webp
 ---
 最近两年接触到货架、流利架、仓储建模和渲染的学员从业者越来越多了，之前一个深圳的学员专门做货架的，月流水在200万左右，第29期AutoCAD训练营中又有一名澳大利亚的中国学员，也做货架进出口贸易，我还专门了解了一下关于货架进出口需要钢铁的原材料有认证的，并不是普通的货架直接出口，本次AutoCAD练习专门针对三维仓库货架建模和渲染进行技术剖析。
 

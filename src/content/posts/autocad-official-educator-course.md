@@ -5,7 +5,7 @@ description: AutoCAD官方认证教师亲授训练营，请关注最新一期的
 tags: [AutoCAD教程, AutoCAD]
 category: AutoCAD课程
 draft: false
-image: "https://cdn.jimuhaoke.com/2025/cad%E8%AE%A4%E8%AF%81%E6%95%99%E5%B8%88%E8%AF%BE%E7%A8%8B.webp"
+cover: https://cdn.jimuhaoke.com/2025/cad%E8%AE%A4%E8%AF%81%E6%95%99%E5%B8%88%E8%AF%BE%E7%A8%8B.webp
 ---
 感谢您的关注和信任，以下是Autodesk官方认证教师陈老师亲授训练营课程介绍。
 

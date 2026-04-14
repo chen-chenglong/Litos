@@ -6,7 +6,7 @@ tags: [学习服务, 积木好课]
 category: 学习服务
 draft: false
 pinned: true
-image: "https://cdn.jimuhaoke.com/img/%E5%AD%A6%E5%91%98%E6%89%8B%E5%86%8C.webp"
+cover: https://cdn.jimuhaoke.com/img/%E5%AD%A6%E5%91%98%E6%89%8B%E5%86%8C.webp
 ---
 
 ### 🎉欢迎新朋友的到来
