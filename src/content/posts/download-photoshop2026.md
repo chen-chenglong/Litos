@@ -1,6 +1,6 @@
 ---
 title: Photoshop2026下载和安装ps2026一键安装自动激活版
-published: 2026-02-01
+pubDate: 2026-02-01
 description: photoshop2026最新版本一键下载和安装，下载并解压后直接setup进行安装，自动激活。
 tags: [Photoshop, 日常软件]
 category: 软件安装

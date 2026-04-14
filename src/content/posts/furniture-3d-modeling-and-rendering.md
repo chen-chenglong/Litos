@@ -1,6 +1,6 @@
 ---
 title: AutoCAD在家具设计中三维建模与渲染全流程技术案例
-published: 2026-04-09
+pubDate: 2026-04-09
 description: 使用AutoCAD对家具设计中家具的结构进行三维建模，并且将建模进行最终渲染的全流程技术案例。
 tags: [AutoCAD课程, 三维建模]
 category: 项目案例

@@ -1,6 +1,6 @@
 ---
 title: 使用AutoCAD和Solidworks实现高异形变石材加工三维建模
-published: 2026-04-09
+pubDate: 2026-04-09
 description: 异形石材加工需要建模以便进行加工和效果预览，本文介绍如何使用AutoCAD和Solidworks实现高异形变石材加工三维建模。
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例

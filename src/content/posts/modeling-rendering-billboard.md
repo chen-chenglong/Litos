@@ -1,6 +1,6 @@
 ---
 title: AutoCAD建模和渲染店招公交站广告牌全流程
-published: 2026-04-08
+pubDate: 2026-04-08
 description: 一个技术全流程的真实项目案例分享，AutoCAD建模和渲染店招公交站广告牌全流程。
 tags: [CAD项目, 建模渲染]
 category: 项目案例

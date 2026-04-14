@@ -1,6 +1,6 @@
 ---
 title: 装修与施工用于空调安装的三维布局示意图全流程项目
-published: 2026-04-08
+pubDate: 2026-04-08
 description: 三维的空间布局在室内外和车间、展台等项目的应用。
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例

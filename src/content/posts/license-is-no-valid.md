@@ -1,6 +1,6 @@
 ---
 title: 如何解决您的AutoCAD许可证无效Nonvalid software detected license is not valid
-published: 2026-04-10
+pubDate: 2026-04-10
 description: 提示CAD许可无效，解决您的AutoCAD许可证无效Nonvalid software detected license is not valid的问题。
 tags: [AutoCAD教程, CAD许可]
 category: 技术文档

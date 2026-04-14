@@ -1,6 +1,6 @@
 ---
 title: techsmith camtasia2025下载和安装教程
-published: 2026-04-08
+pubDate: 2026-04-08
 description: 自用的techsmith camtasia2025下载和安装教程。
 tags: [camtasia, 视频剪辑]
 category: 软件安装

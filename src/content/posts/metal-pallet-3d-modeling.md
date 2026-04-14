@@ -1,6 +1,6 @@
 ---
 title: AutoCAD金属不锈钢托盘三维建模和渲染及产品施工图绘制
-published: 2026-04-09
+pubDate: 2026-04-09
 description: 使用AutoCAD对金属不锈钢托盘三维建模和渲染，以及对产品施工图绘制三视图、剖面图等供加工使用。
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例

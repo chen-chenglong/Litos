@@ -1,6 +1,6 @@
 ---
 title: 积木好课原创AutoCAD三维建模视频教程
-published: 2026-04-10
+pubDate: 2026-04-10
 description: 积木好课AutoCAD三维建模教程，全面掌握实体曲面网格建模、布尔运算与三视图，搭配实战案例，快速掌握专业建模能力。
 tags: [AutoCAD教程, CAD三维]
 category: AutoCAD课程

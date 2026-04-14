@@ -1,6 +1,6 @@
 ---
 title: AutoCAD建筑室内装修楼梯建模渲染效果图全流程案例
-published: 2026-04-09
+pubDate: 2026-04-09
 description: 使用AutoCAD进行建筑室内装修效果图的楼梯建模和渲染效果图全流程案例。
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例

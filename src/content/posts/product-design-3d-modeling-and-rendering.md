@@ -1,6 +1,6 @@
 ---
 title: 产品建模AutoCAD泡泡机萌萌狗建模和渲染全流程案例
-published: 2026-04-09
+pubDate: 2026-04-09
 description: 本案例是使用AutoCAD进行产品建模和渲染的全流程技术案例，使用一款可爱的萌萌狗泡机为案例。
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例

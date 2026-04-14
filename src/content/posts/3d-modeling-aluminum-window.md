@@ -1,6 +1,6 @@
 ---
 title: 隔热铝合金窗精确AutoCAD三维建模和渲染全流程
-published: 2026-04-08
+pubDate: 2026-04-08
 description: 隔热铝合金窗要实现精确的三维建模，本案例使用AutoCAD进行三维建模和渲染全流程技术。
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例

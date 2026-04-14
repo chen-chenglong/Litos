@@ -1,6 +1,6 @@
 ---
 title: 从概念设计到3D打印实物AutoCAD全流程项目
-published: 2025-10-01
+pubDate: 2025-10-01
 description: 从抽象概念设计图出发，以精准建模攻克气流孔通畅性核心难点，经切片处理与3D打印，成功落地可吹动实物
 tags: [CAD项目, 3D打印, 三维建模]
 category: 项目案例

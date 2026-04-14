@@ -1,6 +1,6 @@
 ---
 title: AutoCAD模型空间的图形如何在布局视口中居中对齐
-published: 2026-04-08
+pubDate: 2026-04-08
 description: 很多时候我们需要AutoCAD模型空间的图形在布局视口中居中对齐，以方便排版打印。
 tags: [CAD布局, CAD打印]
 category: 技术文档

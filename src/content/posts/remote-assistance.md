@@ -1,6 +1,6 @@
 ---
 title: 远程协助服务-软件安装与一对一辅导
-published: 2026-04-10
+pubDate: 2026-04-10
 description: 远程协助服务可以实现软件安装、一对一辅导教学等。。
 tags: [远程协助, 软件安装]
 category: 学习服务

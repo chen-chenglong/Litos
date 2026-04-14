@@ -1,6 +1,6 @@
 ---
 title: 铁艺铝艺大门订制AutoCAD三维建模与渲染全流程
-published: 2026-04-08
+pubDate: 2026-04-08
 description: 铁艺、铝艺大门的加工订制，使用AutoCAD进行设计，并且进行三维建模与产品效果渲染的全流程。
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例

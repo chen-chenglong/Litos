@@ -1,6 +1,6 @@
 ---
 title: AutoCAD三维建模快速入门演示三维建模课程引导案例
-published: 2026-04-08
+pubDate: 2026-04-08
 description: 为了帮助零基础的学员快速入门三维建模，本案例为AutoCAD三维建模快速入门演示，是CAD三维建模课程的引导案例，帮助零基础学员快速感受建模全流程。
 tags: [AutoCAD教程, 三维建模]
 category: AutoCAD课程

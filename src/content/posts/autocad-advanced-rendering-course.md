@@ -1,6 +1,6 @@
 ---
 title: 积木好课原创AutoCAD高级渲染视频教程
-published: 2026-04-10
+pubDate: 2026-04-10
 description: 积木好课原创AutoCAD高级渲染视频教程，进阶高级渲染的朋友，全网唯一CAD渲染全套体系教程。
 tags: [AutoCAD教程, CAD渲染]
 category: AutoCAD课程

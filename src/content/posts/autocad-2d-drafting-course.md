@@ -1,6 +1,6 @@
 ---
 title: 积木好课原创AutoCAD零基础二维制图视频教程
-published: 2026-04-10
+pubDate: 2026-04-10
 description: 积木好课原创CAD系统教程的零基础到二维制图，并且适合零基础开始学习的朋友，包含全面的二维制图工具。
 tags: [AutoCAD教程, CAD二维]
 category: AutoCAD课程

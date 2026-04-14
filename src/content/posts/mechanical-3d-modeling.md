@@ -1,6 +1,6 @@
 ---
 title: AutoCAD机械零件三维建模及渲染和尺寸图排版全流程技术
-published: 2026-04-08
+pubDate: 2026-04-08
 description: 本案例使用AutoCAD对机械零件三维建模及渲染和尺寸图排版全流程技术，解决机械设计全流程的所有技术。
 tags: [AutoCAD教程, 三维建模]
 category: 项目案例

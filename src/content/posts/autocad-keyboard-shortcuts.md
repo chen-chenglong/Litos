@@ -1,6 +1,6 @@
 ---
 title: 整理全网最全AutoCAD快捷键表格可复制快快收藏
-published: 2026-04-09
+pubDate: 2026-04-09
 description: 很多地方找到的快捷键都是加了水印的图片无法复制，这里给朋友们整理一个可以复制的AutoCAD快捷键大全的表格。
 tags: [AutoCAD快捷键, AutoCAD]
 category: 技术文档

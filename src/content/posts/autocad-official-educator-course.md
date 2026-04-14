@@ -1,6 +1,6 @@
 ---
 title: AutoCAD官方认证教师亲授训练营
-published: 2026-04-09
+pubDate: 2026-04-09
 description: AutoCAD官方认证教师亲授训练营，请关注最新一期的开班动态。。
 tags: [AutoCAD教程, AutoCAD]
 category: AutoCAD课程

@@ -1,6 +1,6 @@
 ---
 title: AutoCAD2020~2026简体中文版下载
-published: 2026-04-10
+pubDate: 2026-04-10
 description: AutoCAD2020~2026简体中文版下载。
 tags: [CAD软件, CAD下载]
 category: 软件安装

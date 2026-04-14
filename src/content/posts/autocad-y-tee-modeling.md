@@ -1,6 +1,6 @@
 ---
 title: CAD异形三通变径Y三通三维结构精确设计案例
-published: 2025-10-21
+pubDate: 2025-10-21
 description: 使用CAD绘制变径Y三通三维结构，曲面建模运用到钣金CAD在变径或者说异形三通结构中的应用。
 tags: [CAD三维, CAD项目, 机械钣金]
 category: 项目案例
