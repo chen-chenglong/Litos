@@ -105,6 +105,18 @@ export interface TagsConfig {
   introduce: string
 }
 
+/**
+ * 分类配置接口 / Categories configuration interface
+ * @property {string} title - 分类页标题 / Categories page title
+ * @property {string} description - 分类页描述 / Categories page description
+ * @property {string} introduce - 分类页介绍 / Categories page introduce
+ */
+export interface CategoriesConfig {
+  title: string
+  description: string
+  introduce: string
+}
+
 export interface Skill {
   icon: string
   name: string

@@ -9,7 +9,7 @@ import type {
   Site,
   SkillsShowcaseConfig,
   SocialLink,
-  TagsConfig,
+  TagsConfig, CategoriesConfig,
 } from '~/types'
 
 //--- Readme Page Config ---
@@ -25,7 +25,6 @@ export const SITE: Site = {
   transition: false,
   themeAnimation: true,
 }
-
 export const HEADER_LINKS: Link[] = [
   {
     name: 'Posts',
@@ -39,8 +38,11 @@ export const HEADER_LINKS: Link[] = [
     name: 'Photos',
     url: '/photos',
   },
+  {
+    name: '文章分类',
+    url: '/categories',
+  },
 ]
-
 export const FOOTER_LINKS: Link[] = [
   {
     name: 'Readme',
@@ -274,6 +276,12 @@ export const TAGS_CONFIG: TagsConfig = {
   title: 'Tags',
   description: 'All tags of Posts',
   introduce: 'All the tags for posts are here, you can click to filter them.',
+}
+
+export const CATEGORIES_CONFIG: CategoriesConfig = {
+  title: '文章分类',
+  description: '所有文章分类',
+  introduce: '这里是所有文章的分类，点击可以筛选对应分类的文章。',
 }
 
 export const PROJECTS_CONFIG: ProjectConfig = {

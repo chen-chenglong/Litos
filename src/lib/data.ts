@@ -41,6 +41,19 @@ export async function getAllTags(): Promise<Record<string, number>> {
   )
 }
 
+// 获取分类
+export async function getAllCategories(): Promise<Record<string, number>> {
+  const allPosts = await getAllPosts()
+  const categories = allPosts.map((post) => post.data.category).filter((category): category is string => !!category)
+  return categories.reduce(
+    (acc, category) => {
+      acc[category] = (acc[category] || 0) + 1
+      return acc
+    },
+    {} as Record<string, number>
+  )
+}
+
 // 获取project
 export async function getAllProjects(): Promise<CollectionEntry<'projects'>[]> {
   const allProjects = await getCollection('projects')
